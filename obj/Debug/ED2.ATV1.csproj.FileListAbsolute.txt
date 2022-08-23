@@ -1,0 +1,8 @@
+C:\Users\Loyalty\source\repos\ED2.ATV1\ED2.ATV1\bin\Debug\ED2.ATV1.exe.config
+C:\Users\Loyalty\source\repos\ED2.ATV1\ED2.ATV1\bin\Debug\ED2.ATV1.exe
+C:\Users\Loyalty\source\repos\ED2.ATV1\ED2.ATV1\bin\Debug\ED2.ATV1.pdb
+C:\Users\Loyalty\source\repos\ED2.ATV1\ED2.ATV1\obj\Debug\ED2.ATV1.csproj.AssemblyReference.cache
+C:\Users\Loyalty\source\repos\ED2.ATV1\ED2.ATV1\obj\Debug\ED2.ATV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Loyalty\source\repos\ED2.ATV1\ED2.ATV1\obj\Debug\ED2.ATV1.csproj.CoreCompileInputs.cache
+C:\Users\Loyalty\source\repos\ED2.ATV1\ED2.ATV1\obj\Debug\ED2.ATV1.exe
+C:\Users\Loyalty\source\repos\ED2.ATV1\ED2.ATV1\obj\Debug\ED2.ATV1.pdb
